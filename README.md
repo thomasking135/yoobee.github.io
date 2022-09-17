@@ -8,4 +8,4 @@ This is an app that allows you to create and find events that you want.
 
 The Hap App was designed by Justina Ho, Keegab Dufty, and Thomas King 3 up and coming web devs from New Zealand. 
 
-![Happyiness](happiness.jpg)
+![Screenshot](happiness.jpg)
